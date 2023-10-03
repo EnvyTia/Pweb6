@@ -95,12 +95,6 @@ body {
     transition: 0.2s ease-out;
 }
 
-/* input {
-        float:left;
-        margin: 5px 0px;
-        width: 10px;
-    } */
-
 .submit:hover,
 .submit:focus {
     background: #174174;

@@ -10,6 +10,7 @@ document.getElementById("button").addEventListener("click", function (event) {
     } else {
       x.type = "password";
     }
+    
   }
 
   function onSubmit() {
